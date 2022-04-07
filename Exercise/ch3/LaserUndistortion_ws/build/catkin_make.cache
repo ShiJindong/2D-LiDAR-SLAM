@@ -1,0 +1,2 @@
+LaserUndistortion:champion_nav_msgs/src/champion_nav_msgs
+-DCATKIN_DEVEL_PREFIX=/home/jindong/Lidar_SLAM/Exercise/ch3/HW3/LaserUndistortion_ws/devel -DCMAKE_INSTALL_PREFIX=/home/jindong/Lidar_SLAM/Exercise/ch3/HW3/LaserUndistortion_ws/install -G Unix Makefiles
