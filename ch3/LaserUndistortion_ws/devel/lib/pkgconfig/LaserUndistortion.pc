@@ -1,8 +1,0 @@
-prefix=/home/jindong/Lidar_SLAM/Exercise/ch3/HW3/LaserUndistortion_ws/devel
-
-Name: LaserUndistortion
-Description: Description of LaserUndistortion
-Version: 0.0.0
-Cflags: 
-Libs: -L${prefix}/lib 
-Requires: 

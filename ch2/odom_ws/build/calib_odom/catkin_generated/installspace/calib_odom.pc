@@ -1,8 +1,0 @@
-prefix=/home/jindong/Lidar_SLAM/Exercise/ch2/HW2/odom_ws/install
-
-Name: calib_odom
-Description: Description of calib_odom
-Version: 0.0.0
-Cflags: -I${prefix}/include
-Libs: -L${prefix}/lib -lcsm -lcalib_odom
-Requires: roscpp std_msgs

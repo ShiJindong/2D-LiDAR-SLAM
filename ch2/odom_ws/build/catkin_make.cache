@@ -1,2 +1,0 @@
-calib_odom
--DCATKIN_DEVEL_PREFIX=/home/jindong/Lidar_SLAM/Exercise/ch2/HW2/odom_ws/devel -DCMAKE_INSTALL_PREFIX=/home/jindong/Lidar_SLAM/Exercise/ch2/HW2/odom_ws/install -G Unix Makefiles
